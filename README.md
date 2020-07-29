@@ -2,7 +2,7 @@
 
 What's all this about then?
 
-- 🔭 I’m currently working on a making a series of accessible web components. I've gone from Polymer to Stencil to LitElement – what's next? 
+- 🔭 I’m currently working on a making a series of [accessible web components](https://github.com/danielmatthew/accessible-web-components) – I'd appreciate your feedback!
 
 <!--
 **danielmatthew/danielmatthew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
